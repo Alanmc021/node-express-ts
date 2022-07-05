@@ -6,7 +6,7 @@
 
 ## :custard: Descrição
 
-<p>Aulas Desenvolvida - <a href="https://vidafullstack.com.br/javascript/como-usar-typescript-com-nodejs-e-express/">Como usar TypeScript com NodeJs e express</a></p>
+<p>Aulas Desenvolvida - <a href="">Como usar TypeScript com NodeJs e express</a></p>
 
 ---
 
